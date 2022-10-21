@@ -1,0 +1,29 @@
+#toggle {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+li p {
+  font-size: 25px;
+}
+
+#search-history-container {
+  margin: 0;
+  top: 15px;
+  left: 350px;
+}
+
+#news-container {
+  width: 500px;
+}
